@@ -1,0 +1,132 @@
+{
+    "COVID19": [
+        {
+            "Place": "BGC",
+            "NumberOfCase": "4",
+            "Type": "Offiice",
+            "LatAndLng": "14.539289, 121.044892",
+            "Lat": "14.539289",
+            "Lng": "121.044892"
+        },
+        {
+            "Place": "Deloitte",
+            "NumberOfCase": "1",
+            "Type": "Office",
+            "LatAndLng": "14.543277, 121.048325",
+            "Lat": "14.543277",
+            "Lng": "121.048325"
+        },
+        {
+            "Place": "St Lukes",
+            "NumberOfCase": "2",
+            "Type": "Hospital",
+            "LatAndLng": "14.555053, 121.047945",
+            "Lat": "14.555053",
+            "Lng": "121.047945"
+        },
+        {
+            "Place": "Muntinlupa",
+            "NumberOfCase": "4",
+            "Type": "Hospital",
+            "LatAndLng": "14.414247, 121.038683",
+            "Lat": "14.414247",
+            "Lng": "121.038683"
+        },
+        {
+            "Place": "Cainta Rizal, filinvest",
+            "NumberOfCase": "4",
+            "Type": "Home",
+            "LatAndLng": "14.623232, 121.115912",
+            "Lat": "14.623232",
+            "Lng": "121.115912"
+        },
+        {
+            "Place": "San Juan City",
+            "NumberOfCase": "4",
+            "Type": "Home",
+            "LatAndLng": "14.601805, 121.039834",
+            "Lat": "14.601805",
+            "Lng": "121.039834"
+        },
+        {
+            "Place": "Makati Med",
+            "NumberOfCase": "5",
+            "Type": "Hospital",
+            "LatAndLng": "14.559352, 121.014435",
+            "Lat": "14.559352",
+            "Lng": "121.014435"
+        },
+        {
+            "Place": "Medical City",
+            "NumberOfCase": "2",
+            "Type": "Hospital",
+            "LatAndLng": "14.589813, 121.069066",
+            "Lat": "14.589813",
+            "Lng": "121.069066"
+        },
+        {
+            "Place": "St Lukes QC",
+            "NumberOfCase": "2",
+            "Type": "Hospital",
+            "LatAndLng": "14.622562, 121.023019",
+            "Lat": "14.622562",
+            "Lng": "121.023019"
+        },
+        {
+            "Place": "Unihealth Paranaque",
+            "NumberOfCase": "2",
+            "Type": "Hospital",
+            "LatAndLng": "14.468161, 121.013204",
+            "Lat": "14.468161",
+            "Lng": "121.013204"
+        },
+        {
+            "Place": "Tricity Pasig",
+            "NumberOfCase": "2",
+            "Type": "Hospital",
+            "LatAndLng": "14.576141, 121.085080",
+            "Lat": "14.576141",
+            "Lng": "121.08508"
+        },
+        {
+            "Place": "Baler St. San Jose Del monte",
+            "NumberOfCase": "1",
+            "Type": "Home",
+            "LatAndLng": "14.645367, 121.017925",
+            "Lat": "14.645367",
+            "Lng": "121.017925"
+        },
+        {
+            "Place": "Thomas Morato",
+            "NumberOfCase": "4",
+            "Type": "Home",
+            "LatAndLng": "14.631704, 121.034611",
+            "Lat": "14.631704",
+            "Lng": "121.034611"
+        },
+        {
+            "Place": "West Crame",
+            "NumberOfCase": "4",
+            "Type": "Home",
+            "LatAndLng": "14.607505, 121.049833",
+            "Lat": "14.607505",
+            "Lng": "121.049833"
+        },
+        {
+            "Place": "Sta. Maria Bulacan",
+            "NumberOfCase": "4",
+            "Type": "Home",
+            "LatAndLng": "14.836656, 120.988576",
+            "Lat": "14.836656",
+            "Lng": "120.988576"
+        },
+        {
+            "Place": "Project 6 Quezon City",
+            "NumberOfCase": "4",
+            "Type": "Home",
+            "LatAndLng": "14.659480, 121.040620",
+            "Lat": "14.65948",
+            "Lng": "121.04062"
+        }
+    ]
+}
