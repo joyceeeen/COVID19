@@ -144,23 +144,14 @@ class HomeController extends Controller
 
     $pie3->addStringColumn('Age')
     ->addNumberColumn('Age')
-    ->addRow([24 , 1])
-    ->addRow([32, 1])
-    ->addRow([34 , 1])
-    ->addRow([38 , 2])
-    ->addRow([41, 1])
-    ->addRow([44 , 1])
-    ->addRow([46 , 2])
-    ->addRow([48, 2])
-    ->addRow([56 , 1])
-    ->addRow([57 , 1])
-    ->addRow([59 , 1])
-    ->addRow([60 , 1])
-    ->addRow([62 , 1])
-    ->addRow([69 , 2])
-    ->addRow([70, 1])
-    ->addRow([86 , 1])
-    ->addRow(['TBA' , 13]);
+    ->addRow([21-30 , 3])
+    ->addRow([31-40, 6])
+    ->addRow([41-50, 7])
+    ->addRow([51-60 , 8])
+    ->addRow([61-70 , 5])
+    ->addRow([71-80 , 1])
+    ->addRow([81-90 , 1])
+    ->addRow([91-100 , 1]);
 
 
     Lava::PieChart('Age', $pie3, [
