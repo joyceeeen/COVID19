@@ -1,5 +1,5 @@
 {
-    "COVID19": [
+  "COVID19": [
         {
             "Place": "BGC",
             "NumberOfCase": "4",
@@ -58,7 +58,7 @@
         },
         {
             "Place": "Medical City",
-            "NumberOfCase": "2",
+            "NumberOfCase": "8",
             "Type": "Hospital",
             "LatAndLng": "14.589813, 121.069066",
             "Lat": "14.589813",
@@ -127,6 +127,38 @@
             "LatAndLng": "14.659480, 121.040620",
             "Lat": "14.65948",
             "Lng": "121.04062"
+        },
+        {
+            "Place": "Dr. Jose N. Rodriguez Memorial Hospital,Caloocan",
+            "NumberOfCase": "2",
+            "Type": "Hospital",
+            "LatAndLng": "14.766770, 121.065077",
+            "Lat": "14.76677",
+            "Lng": "121.065077"
+        },
+        {
+            "Place": "Cardinal Santos Medical Center, San Juan",
+            "NumberOfCase": "2",
+            "Type": "Hospital",
+            "LatAndLng": "14.597772, 121.045531",
+            "Lat": "14.597772",
+            "Lng": "121.045531"
+        },
+        {
+            "Place": "San Lazaro Hospital, Manila",
+            "NumberOfCase": "2",
+            "Type": "Hospital",
+            "LatAndLng": "14.613758, 120.980991",
+            "Lat": "14.613758",
+            "Lng": "120.980991"
+        },
+        {
+            "Place": "New Clark City Sports Hub, New Clark City",
+            "NumberOfCase": "4",
+            "Type": "Hospital",
+            "LatAndLng": "15.344216, 120.531656",
+            "Lat": "15.344216",
+            "Lng": "120.531656"
         }
     ]
 }
