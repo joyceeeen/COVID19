@@ -85,8 +85,8 @@ class HomeController extends Controller
     $top_prov = Lava::DataTable();
     $top_prov->addStringColumn('Rate')
     ->addNumberColumn('# of Cases')
-    ->addRow(["Death" , 1])
-    ->addRow(["Confined" , 30])
+    ->addRow(["Death" , 2])
+    ->addRow(["Confined" , 28])
     ->addRow(["Recovered" , 2]);
 
     Lava::ColumnChart('Province', $top_prov, [
