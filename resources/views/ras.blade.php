@@ -102,7 +102,7 @@
                        <div class="col-lg-6">
                          <center>
                            <h5 class="card-title">Confirmed</h5>
-                           <h1 class="card-text">117,715</h1>
+                           <h1 class="card-text">118,326</h1>
                          </center>
                        </div>
                        <div class="col-lg-6">
@@ -127,7 +127,7 @@
                        <div class="col-lg-6">
                          <center>
                            <h5 class="card-title">Confirmed</h5>
-                           <h1 class="card-text">33</h1>
+                           <h1 class="card-text">52</h1>
                          </center>
                        </div>
                        <div class="col-lg-6">
