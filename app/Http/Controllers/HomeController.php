@@ -72,7 +72,9 @@ class HomeController extends Controller
     ->addRow(["2020-03-07" , 1])
     ->addRow(["2020-03-08" , 4])
     ->addRow(["2020-03-09" , 13])
-    ->addRow(["2020-03-10" , 11]);
+    ->addRow(["2020-03-10" , 11])
+    ->addRow(["2020-03-11" , 16])
+    ->addRow(["2020-03-12" , 3])  ;
 
     Lava::LineChart('Location', $top, [
       'title' => '',
@@ -86,7 +88,7 @@ class HomeController extends Controller
     $top_prov->addStringColumn('Rate')
     ->addNumberColumn('# of Cases')
     ->addRow(["Death" , 2])
-    ->addRow(["Confined" , 28])
+    ->addRow(["Confined" , 48])
     ->addRow(["Recovered" , 2]);
 
     Lava::ColumnChart('Province', $top_prov, [
